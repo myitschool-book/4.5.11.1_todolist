@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Todo list</string>
+    <string name="add_btn">Add task</string>
+    <string name="title">Task title</string>
+    <string name="save_btn">Save</string>
+    <string name="del_btn">Delete</string>
+    <string name="modif_btn">Edit</string>
+    <string name="modif_title">Edit task</string>
+    <string name="completed">Completed</string>
+    <string name="waiting">Waiting</string>
+    <string name="task">Task</string>
+    <string name="description">Task description</string>
+    <string name="deadline">Deadline</string>
+    <string name="done">Done</string>
+    <string name="required">Required!</string>
+    <string name="sure">Are you sure?</string>
+    <string name="ok">Ok</string>
+    <string name="cancel">Cancel</string>
+    <string name="empty">Empty!</string>
+</resources>

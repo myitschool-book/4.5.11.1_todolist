@@ -1,0 +1,18 @@
+ru/samsung/itschool/mdev/todolist/room/Task.java
+ ru.samsung.itschool.mdev.todolist.room.Converters
+ ru.samsung.itschool.mdev.todolist.room.Task
+ru/samsung/itschool/mdev/todolist/BuildConfig.java
+ ru.samsung.itschool.mdev.todolist.BuildConfig
+ru/samsung/itschool/mdev/todolist/fragment/AddDialogFragment.java
+ ru.samsung.itschool.mdev.todolist.fragment.AddDialogFragment
+ru/samsung/itschool/mdev/todolist/room/TaskDAO.java
+ ru.samsung.itschool.mdev.todolist.room.TaskDAO
+ru/samsung/itschool/mdev/todolist/room/AppDB.java
+ ru.samsung.itschool.mdev.todolist.room.AppDB
+ru/samsung/itschool/mdev/todolist/room/DBClient.java
+ ru.samsung.itschool.mdev.todolist.room.DBClient
+ru/samsung/itschool/mdev/todolist/MainActivity.java
+ ru.samsung.itschool.mdev.todolist.MainActivity
+ru/samsung/itschool/mdev/todolist/TaskAdapter.java
+ ru.samsung.itschool.mdev.todolist.TaskAdapter
+ ru.samsung.itschool.mdev.todolist.TaskAdapter$TasksViewHolder
